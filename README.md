@@ -18,7 +18,7 @@ Node.js下载地址：https://nodejs.org/en/download
 vscode下载地址：https://code.visualstudio.com/download  
 安装时遇到问题，请自行百度或者谷歌搜索  
 
-### 脚本启动命令： node .\script\rescue.js
+### 进入项目根目录，打开终端（命令提示符/cmd）脚本启动命令： node .\script\rescue.js
 
 ### 代码已经是全网最详细，如果实在不懂可以联系我，当然是要付费的哦，毕竟时间就是金钱，请理解。
 ### 微信：Jasonrale
