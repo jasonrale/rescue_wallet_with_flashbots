@@ -11,5 +11,9 @@
   "dependencies": {
     "@flashbots/ethers-provider-bundle": "^0.6.2",
     "ethers": "^5.7.2"
+  },
+  "repository": {
+    "type": "git",
+      "url": "git+https://github.com/jasonrale/rescue_wallet_with_flashbots.git"
   }
 }
