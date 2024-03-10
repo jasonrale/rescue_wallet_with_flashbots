@@ -1,6 +1,6 @@
 {
   "name": "rescue_wallet_with_flashbots",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,6 @@
   },
   "repository": {
     "type": "git",
-      "url": "https://github.com/jasonrale/rescue_wallet_with_flashbots.git"
+    "url": "https://github.com/jasonrale/rescue_wallet_with_flashbots.git"
   }
 }
